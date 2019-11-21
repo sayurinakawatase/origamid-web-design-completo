@@ -1,0 +1,83 @@
+
+ORIGAMID
+
+TIPOGRAFIAS
+- Sem serifas (corpo do texto)
+- Serifadas (finalizacao de lapis nas pontas- corpo do texto)
+- Serifas grossas - ideal para titulos de textos
+- Script - sao mais desenhadas - ideal para titulos
+- Goticas- letra mais medieval- ideal titulos
+- Display- letra com contorno e mais personalizada- ideal titulos
+
+VARIAVEIS TIPOGRAFIA
+
+- Tamanho do tipo
+Normalmente- 14px, 16px ou 18px
+
+- Altura da linha
+Pixel X 1,5 (tamanho da fonte)
+EX: 14px X 1,5= 21px
+
+- Largura do texto
+Max de 10 a 14 palavras por linha
+
+ESCALAS TIPOGRAFICAS
+- Utilizar no max 6 tipos de tamanhos;
+- Escolha uma escala harmonica- (11px, 14, 18, 24, 36 e 48px
+- Nao utilizar tamanhos prox de fontes, ex: 14px e 15px
+
+ALINHAMENTO
+- A esquerda
+Padrao web, utilizado 80% das vezes
+
+-Centralizado
+Bom para titulos, subtitulos ou pequenos blocos de texto
+O layout deve acompanhar esse alinhamento.
+
+-Justificado
+Pouco utilizado na web devido a dificuldade em hifenizar o texto.
+
+
+TRACKING E KERNING
+Tracking: distancia entre todas as letras
+Kerning: distancia entre duas letras.
+
+
+SITE indicado para exemplos de textos e segmentos
+https://www.typewolf.com/site-of-the-day/fonts/ibm-plex-sans
+
+
+AULA 2- GRID
+Serve para organizar: imagens, textos, titulos e dados para gerar padronizacao.
+SITE: 960.gs  
+(grid system) para incluir na formatacao de um texto, imagens... a ser padronizado e para centralizacao. Nota: 16 colunas e um padrao.).
+SITE: getskeleton.com (serve para criar um sistema de grid- sistema responsivo para quebra e personalizacao da pag onde ela for aberta)
+
+Regras dos tercos
+3 colunas e 3 linhas para centralizar
+
+
+Dicas para quem nao e design
+
+Contraste, proximidade, alinhamento, repeticao em um site.
+
+
+
+O QUE E UX DESIGN?
+Qualquer interacao entre o usuario e uma marca e uma experiencia de uso. O trabalho do designer e garantir que as necessidades do usuario sejam atendidas e, se possivel, com prazer durante o processo.
+
+
+USABILIDADE 
+
+Para Steve Krug:
+- Util
+Faz algo que alguem precisa?
+
+- Facil de aprender
+As pessoas conseguem descobrir como usar?
+
+Memoravel
+E necessario reaprender sempre que for usar?
+
+Efetivo
+Faz o seu trabalho?
